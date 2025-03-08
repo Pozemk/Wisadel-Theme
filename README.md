@@ -1,4 +1,4 @@
-# ![Wisadel](https://media.discordapp.net/attachments/1280868099125674048/1302354830966263818/4F925DE9-F531-42F4-AD4B-2A3FBCD575AF.png?ex=6727cff4&is=67267e74&hm=1d54a84d4f0164eb9ee2e940b168b989dc005466e041aca6354972d6a75b577d&=&format=webp&quality=lossless&width=1193&height=671)
+
 Это кастомная тема для [дискорда](https://discord.com).
 
 **Надеюсь вам понравиться** 
